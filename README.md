@@ -1,2 +1,2 @@
 # CodingCource2
-2nd Coding Cource
+This is the 2nd class i am doing, where i am intoducing Python. 
